@@ -70,3 +70,6 @@ vendor
 
 # Mac
 .DS_Store
+
+# Keystore
+*.jks
